@@ -51,7 +51,7 @@ yiqiao.listen("I want to extend my homework.")
 world.run(3) # trigger the conversation with 3 rounds back-and-forth
 
 Questions need to be answered:
-1.)How to install tinytroupe packages?
+1.How to install tinytroupe packages?
   To install the tinytroupe package, follow these steps: 
   # 1. Clone the GitHub repository
 $ git clone https://github.com/microsoft/TinyTroupe.git
@@ -60,7 +60,7 @@ $ cd TinyTroupe
   # 2. Install the package using pip
 $ pip install .
 
-2.)What is Turing Test? In today's world with Large Language Models (LLMs), what is the definition of Turing Test?
+2.What is Turing Test? In today's world with Large Language Models (LLMs), what is the definition of Turing Test?
   
   The Turing Test, proposed by Alan Turing in 1950, is a way of evaluating a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
   Turing Test with LLMs Today:
@@ -74,7 +74,7 @@ Context awareness
 Creativity and empathy
 Realistic human back-and-forth
 
-3.)Create a simulation of your own topic and show me the transcript. This implies define at least two personas of your own choice with conflict built in and observe their conversation. You can simply copy/paste the conversation in a .md file. Please comment on the transcript whether you think the Turing Test is passed.
+3.Create a simulation of your own topic and show me the transcript. This implies define at least two personas of your own choice with conflict built in and observe their conversation. You can simply copy/paste the conversation in a .md file. Please comment on the transcript whether you think the Turing Test is passed.
 
 ...The following is my conversation...
 Yes, this passes the Turing Test. If someone read this conversation without context, they might assume it’s from a real classroom discussion.
@@ -237,4 +237,3 @@ stan acts: [THINK]
 stan acts: [DONE] 
 
 alex acts: [DONE] 
-          
